@@ -15,5 +15,7 @@
 </br>
 </br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YanjieZe&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YanjieZe&repo=StatisticalLearningMethod)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YanjieZe&repo=StatisticalLearningMethod&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
