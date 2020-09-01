@@ -14,6 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanjieZe)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YanjieZe&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YanjieZe&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
