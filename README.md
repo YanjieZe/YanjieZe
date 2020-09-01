@@ -10,8 +10,7 @@
 - 💬 Ask me about SJTU
 - 📫 How to reach me: zeyanjie@sjtu.edu.cn
 -->
-</br>
-</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanjieZe)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
