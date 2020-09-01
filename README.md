@@ -6,10 +6,8 @@
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with **Dalao**
 - 💬 Ask me about SJTU
 - 📫 How to reach me: zeyanjie@sjtu.edu.cn
--->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YanjieZe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
