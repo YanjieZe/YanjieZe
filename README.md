@@ -1,6 +1,4 @@
-### Hi Here 👋
-
-I'm **Yanjie Ze**.</br>
+### Hi Here 👋I'm **Yanjie Ze**.
 - My page: **yanjieze.xyz**
 </br>
 
