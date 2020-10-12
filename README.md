@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YanjieZe&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
-My page:**yanjieze.xyz**
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
