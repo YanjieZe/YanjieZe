@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=YanjieZe" alt="vistors" />
-  <a href="https://twitter.com/_keithnull"><img src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://twitter.com/_keithnull"><img src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Steam&logoColor=white" alt="twitter"/></a>
 </p>
 
 <p align="center">
