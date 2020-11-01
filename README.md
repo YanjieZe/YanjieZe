@@ -8,4 +8,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YanjieZe&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
 </p>
-<a href="https://clustrmaps.com/site/1be55"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Qy7qCkBqTa5j6doaApz-rxjp16jVcHHRB46tH-I6VSg&cl=ffffff" /></a>
