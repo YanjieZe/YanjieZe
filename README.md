@@ -5,6 +5,6 @@
   <a href="https://steamcommunity.com/profiles/76561198293759746/"><img src="https://img.shields.io/badge/@ZYJesus-1DA1F2?style=flat&logo=Steam&logoColor=black" alt="steam"/></a>
 </p>
 
-*Currently my research interest lies in 3D computer vision and reinforcement learning.*
+<p align="center"> *Currently my research interest lies in 3D computer vision and reinforcement learning.* </p>
 
-Code for fun. Hungry and Humble.
+<p align="center"> *Code for fun. Hungry and Humble. Share and Open. * <p> 
