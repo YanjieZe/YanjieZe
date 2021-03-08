@@ -9,6 +9,6 @@
 <p align="center"> Code for fun. Hungry and Humble. Share and Open. <p> 
 <p align="center"> Know Me on Blog: <a href ="https://yanjieze.xyz">the Last Refugee </a> </p>
 
-
+<center>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanjieZe&theme=nord">
- 
+</center>
