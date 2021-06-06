@@ -16,7 +16,7 @@
 
 <h2 align="center">Repo List(Selected) </h2>
 
-- Vision(2D and 3D).
+- Vision(2D and 3D)
 
   - [UNet on SUN RGB-D](https://github.com/YanjieZe/UNet)
   - [PointGroup on ScanNet](https://github.com/YanjieZe/pointgroup)
@@ -29,7 +29,7 @@
 
   - QMIX
 
-- Course Projects and Labs.
+- Course Projects and Labs
   - [Final Project for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/Project-CS214) (pdf and code)
   
   - [Labs for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/CS214-Algorithm-and-Complexity)(pdf and code)
