@@ -1,17 +1,21 @@
-Hi, I'm Yanjie Ze.👋 
-
+<h1 align="center">Hi, I'm Yanjie Ze.👋 </h1>
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=YanjieZe" alt="vistors" />
   <a href="https://steamcommunity.com/profiles/76561198293759746/"><img src="https://img.shields.io/badge/@ZYJesus-1DA1F2?style=flat&logo=Steam&logoColor=black" alt="steam"/></a>
-A Sophomore Major in Computer Science in SJTU.
+</p>
+<p align="center"> A Sophomore Major in Computer Science in SJTU. </p>
+<p align="center"> Research Interest Lies in <strong>3D Computer Vision & Reinforcement Learning</strong>. </p>
 
-Research Interest Lies in <strong>3D Computer Vision & Reinforcement Learning</strong>.
-
-Code for fun. Hungry and Humble. Share and Open.  
-Know Me on Blog: <a href ="https://yanjieze.xyz">the Last Refugee </a> 
+<p align="center"> Code for fun. Hungry and Humble. Share and Open. <p> 
+<p align="center"> Know Me on Blog: <a href ="https://yanjieze.xyz">the Last Refugee </a> </p>
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=YanjieZe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=algolia&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanjieZe&hide=Tex,javascript,html,Makefile,Jupyter Notebook&langs_count=8&hide_title=true&hide_border=true&layout=compact&theme=algolia&locale=en" />
 
-Repo List(Selected):
+
+
+
+<h2 align="center">Repo List(Selected) </h2>
+
 - Vision(2D and 3D).
 
   - [UNet on SUN RGB-D](https://github.com/YanjieZe/UNet)
