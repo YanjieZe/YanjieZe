@@ -29,7 +29,8 @@
 
   - QMIX
 
-- Course Projects and Labs
+- Course Projects and Labs and Notes
+  - [SJTU Course Notes](https://github.com/YanjieZe/SJTU_Course_Notes) (pdf and code) 
   - [Final Project for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/Project-CS214) (pdf and code)
   
   - [Labs for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/CS214-Algorithm-and-Complexity)(pdf and code)
