@@ -43,4 +43,5 @@
   
    </details>
 
-![back ground](https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG)
+
+<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" alig="middle" width="50%">
