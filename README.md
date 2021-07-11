@@ -9,7 +9,6 @@
 <p align="center"> Code for fun. Hungry and Humble. Share and Open. <p> 
 <p align="center"> Know Me on my Blog <a href ="https://yanjieze.xyz">the Last Refugee </a> or my <a href="https://yanjieze.xyz/academic/">Academic Page</a>.</p>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=YanjieZe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=algolia&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanjieZe&hide=javascript,html,Jupyter Notebook&langs_count=8&hide_title=true&hide_border=true&layout=compact&theme=algolia&locale=en" />
 
 
 
@@ -44,4 +43,4 @@
   
    </details>
 
-
+![back ground](https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG)
