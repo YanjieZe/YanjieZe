@@ -44,5 +44,5 @@
    </details>
 
 <div align=center>
-<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" width="300" align="center"/>
+<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" width="400" align="center"/>
   </div>
