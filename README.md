@@ -13,8 +13,9 @@
 
 
 
+<details>
 
-<h2 align="center">Repo List(Selected) </h2>
+  <summary> <h2 align="center">Repo List(Selected) </h2> </summary>
 
 - Vision(2D and 3D)
 
@@ -39,6 +40,6 @@
   
   - [Projects for SJTU CS356: Operating Systems(Chinese)](https://github.com/YanjieZe/OperatingSystem-Labs) (pdf and code)
   
-    
+   </details>
 
 
