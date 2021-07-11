@@ -44,5 +44,5 @@
    </details>
 
 <center>
-<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" width="128" align="middle"/>
+<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" width="256" align="center"/>
   </center>
