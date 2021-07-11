@@ -15,7 +15,9 @@
 
 <details>
 
-  <summary> <h2 align="center">Repo List(Selected) </h2> </summary>
+  <summary>  More About My Repos </summary>
+    
+    <h2 align="center">Repo List(Selected) </h2> 
 
 - Vision(2D and 3D)
 
