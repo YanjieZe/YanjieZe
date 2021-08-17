@@ -42,7 +42,3 @@
   - [Projects for SJTU CS356: Operating Systems(Chinese)](https://github.com/YanjieZe/OperatingSystem-Labs) (pdf and code)
   
    </details>
-
-<div align=center>
-<img src="https://github.com/YanjieZe/YanjieZe/blob/master/background.JPG" alt="back ground" width="400" align="center"/>
-  </div>
