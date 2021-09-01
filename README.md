@@ -7,7 +7,7 @@
 <p align="center"> Research Interest Lies in <strong>Reinforcement Learning, Optimization and 3D Computer Vision</strong>. </p>
 
 <p align="center"> Code for fun. Hungry and Humble. Share and Open. <p> 
-<p align="center"> Know Me on my Blog <a href ="https://yanjieze.com">the Last Refugee </a> or my <a href="https://yanjieze.com/academic/">Academic Page</a>.</p>
+<p align="center"> Know Me on my <a href="https://yanjieze.com">Academic Page</a>.</p>
 
 
 
