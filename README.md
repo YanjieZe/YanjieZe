@@ -10,24 +10,6 @@
 <details>
 
   <summary align="center">  Repo List (Selected) </summary>
-    
-   
-
-- Vision(2D and 3D)
-  - [Multi-view Fusion](https://github.com/YanjieZe/Virtual-Multi-View-Fusion)
-  - [UNet on SUN RGB-D](https://github.com/YanjieZe/UNet)
-  - [PointGroup on ScanNet](https://github.com/YanjieZe/pointgroup)
-  - [Image Caption Generator](https://github.com/YanjieZe/image-caption-generator)
-  - [PointNet on Shapenet](https://github.com/YanjieZe/experiment_with_pointnet)
-  - [PointPillars on Kitti](https://github.com/YanjieZe/PointPillars)
-  - [Vision Localization SLAM Project](https://github.com/YanjieZe/visionLocalization)(Based on YOLOV5 & PnP)
-  
-- Course Projects and Labs and Notes
-  - [SJTU Course Notes](https://github.com/YanjieZe/SJTU_Course_Notes) (pdf and code) 
-  - [Final Project for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/Project-CS214) (pdf and code)
-  
-  - [Labs for SJTU CS214:Algorithm and Complexity(English)](https://github.com/YanjieZe/CS214-Algorithm-and-Complexity)(pdf and code)
-  
-  - [Projects for SJTU CS356: Operating Systems(Chinese)](https://github.com/YanjieZe/OperatingSystem-Labs) (pdf and code)
+   For more implementation of adavanced algorithms and CS Labs, please refer to my repo.
   
    </details>
