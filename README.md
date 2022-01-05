@@ -10,6 +10,6 @@
 <details>
 
   <summary align="center">  Repo List (Selected) </summary>
-   For more implementation of adavanced algorithms and CS Labs, please refer to my repo.
+   For more implementation of adavanced algorithms and CS Labs, please refer to my personal repo and the organization <a href="https://github.com/theLastRefugee">theLastRefugee</a>.
   
    </details>
