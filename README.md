@@ -4,6 +4,10 @@
   <a href="https://steamcommunity.com/profiles/76561198293759746/"><img src="https://img.shields.io/badge/@ZYJesus-1DA1F2?style=flat&logo=Steam&logoColor=black" alt="steam"/></a>
 </p>
 
+My most used python code is
+```python
+import pdb; pdb.set_trace()
+```
 
 
 
