@@ -6,7 +6,7 @@
 
 My most used python code is
 ```python
-import pdb; pdb.set_trace()
+import ipdb; ipdb.set_trace()
 ```
 
 
