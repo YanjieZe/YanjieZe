@@ -7,9 +7,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/yanjieze" alt="GitHub stars">
       
   </a>
-
-
-
-
-    
+</p>
+<p align="center">
+All my projects/papers are open-sourced. Check <a href="https://yanjieze.com">my website</a> for details.
 </p>
