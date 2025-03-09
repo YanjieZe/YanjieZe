@@ -8,6 +8,3 @@
        <img src="https://img.shields.io/github/stars/YanjieZe?style=social" alt="GitHub stars">
   </a>
 </p>
-<p align="center">
-All my projects/papers are open-sourced. Check <a href="https://yanjieze.com">my website</a> for details.
-</p>
