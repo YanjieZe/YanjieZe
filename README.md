@@ -15,54 +15,30 @@
   </a>
 </p>
 
-<p align="center">I build humanoid learning systems and tools I use in research.</p>
-<p align="center">
-  <a href="https://yanjieze.com">Website & publications</a> ·
-  <a href="#selected-research">Research</a> ·
-  <a href="#tools">Tools</a> ·
-  <a href="PROJECTS.md">Project directory</a>
-</p>
+<p align="center">Humanoid learning systems and tools for research.</p>
+<p align="center"><a href="https://yanjieze.com">Website & publications</a> · <a href="PROJECTS.md">All projects</a></p>
 
-## Selected Research
+## Research
 
-Projects built with my collaborators, spanning human motion, humanoid control and visuomotor learning.
-
-| Project | Focus | Publication | Stars |
-| --- | --- | --- | --- |
-| **[TWIST2](https://github.com/amazon-far/TWIST2)** | Portable whole-body humanoid teleoperation and data collection. | ICRA 2026 · Oral | [![Stars](https://img.shields.io/github/stars/amazon-far/TWIST2?style=flat)](https://github.com/amazon-far/TWIST2/stargazers) |
-| **[GMR](https://github.com/YanjieZe/GMR)** | Real-time human-to-humanoid motion retargeting across robot embodiments. | ICRA 2026 | [![Stars](https://img.shields.io/github/stars/YanjieZe/GMR?style=flat)](https://github.com/YanjieZe/GMR/stargazers) |
-| **[TWIST](https://github.com/YanjieZe/TWIST)** | Whole-body imitation and teleoperation for humanoid robots. | CoRL 2025 | [![Stars](https://img.shields.io/github/stars/YanjieZe/TWIST?style=flat)](https://github.com/YanjieZe/TWIST/stargazers) |
-| **[VisualMimic](https://github.com/visualmimic/VisualMimic)** | Visual humanoid loco-manipulation through motion tracking and generation. | arXiv 2025 · Partial code release | [![Stars](https://img.shields.io/github/stars/visualmimic/VisualMimic?style=flat)](https://github.com/visualmimic/VisualMimic/stargazers) |
-| **[iDP3](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)** | Generalizable humanoid manipulation with 3D diffusion policies. | IROS 2025 · Oral | [![Stars](https://img.shields.io/github/stars/YanjieZe/Improved-3D-Diffusion-Policy?style=flat)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy/stargazers) |
-| **[DP3](https://github.com/YanjieZe/3D-Diffusion-Policy)** | Visuomotor learning with simple 3D representations and diffusion policies. | RSS 2024 · Oral | [![Stars](https://img.shields.io/github/stars/YanjieZe/3D-Diffusion-Policy?style=flat)](https://github.com/YanjieZe/3D-Diffusion-Policy/stargazers) |
-
-[More research and contribution details →](PROJECTS.md#research)
+| Project | Description | Stars |
+| --- | --- | --- |
+| [TWIST2](https://github.com/amazon-far/TWIST2) | Whole-body humanoid teleoperation and data collection. | [![Stars](https://img.shields.io/github/stars/amazon-far/TWIST2?style=flat)](https://github.com/amazon-far/TWIST2/stargazers) |
+| [GMR](https://github.com/YanjieZe/GMR) | Real-time human-to-humanoid motion retargeting. | [![Stars](https://img.shields.io/github/stars/YanjieZe/GMR?style=flat)](https://github.com/YanjieZe/GMR/stargazers) |
+| [TWIST](https://github.com/YanjieZe/TWIST) | Whole-body humanoid imitation and control. | [![Stars](https://img.shields.io/github/stars/YanjieZe/TWIST?style=flat)](https://github.com/YanjieZe/TWIST/stargazers) |
+| [VisualMimic](https://github.com/visualmimic/VisualMimic) | Visual humanoid loco-manipulation; partial code release. | [![Stars](https://img.shields.io/github/stars/visualmimic/VisualMimic?style=flat)](https://github.com/visualmimic/VisualMimic/stargazers) |
+| [iDP3](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) | 3D diffusion policies for humanoid manipulation. | [![Stars](https://img.shields.io/github/stars/YanjieZe/Improved-3D-Diffusion-Policy?style=flat)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy/stargazers) |
+| [DP3](https://github.com/YanjieZe/3D-Diffusion-Policy) | Visuomotor learning with 3D diffusion policies. | [![Stars](https://img.shields.io/github/stars/YanjieZe/3D-Diffusion-Policy?style=flat)](https://github.com/YanjieZe/3D-Diffusion-Policy/stargazers) |
 
 ## Tools
 
-| Project | What it does | Get started | Stars |
-| --- | --- | --- | --- |
-| **[NodePeek](https://github.com/YanjieZe/NodePeek)** | Native Mac menu bar and desktop monitor for remote GPU, CPU and memory over SSH. | [Download](https://github.com/YanjieZe/NodePeek/releases) · [Agent install](https://github.com/YanjieZe/NodePeek/blob/main/docs/AGENT_INSTALL.md) | [![Stars](https://img.shields.io/github/stars/YanjieZe/NodePeek?style=flat)](https://github.com/YanjieZe/NodePeek/stargazers) |
-| **[URDF Viewer](https://urdf-viewer.yanjieze.com)** | Open and inspect robot models in the browser. | [Open app](https://urdf-viewer.yanjieze.com) | — |
-| **[SR Papers](https://github.com/YanjieZe/SR-Paper-List)** | Search robot learning papers in *Science Robotics* by task and method. | [Browse](https://sr.yanjieze.com) | [![Stars](https://img.shields.io/github/stars/YanjieZe/SR-Paper-List?style=flat)](https://github.com/YanjieZe/SR-Paper-List/stargazers) |
-| **[GPU-Watcher](https://github.com/YanjieZe/GPU-Watcher)** | Watch remote GPU machines from a terminal with `gpuwatch`. | [Usage](https://github.com/YanjieZe/GPU-Watcher#usage) · Development version | [![Stars](https://img.shields.io/github/stars/YanjieZe/GPU-Watcher?style=flat)](https://github.com/YanjieZe/GPU-Watcher/stargazers) |
-
-## Reading & resources
-
-- **[Awesome Humanoid Robot Learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)** — papers and resources on humanoid learning. [![Stars](https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=flat)](https://github.com/YanjieZe/awesome-humanoid-robot-learning/stargazers)
-- **[Paper List](https://github.com/YanjieZe/Paper-List)** — my reading index for robot learning, manipulation and related topics. [![Stars](https://img.shields.io/github/stars/YanjieZe/Paper-List?style=flat)](https://github.com/YanjieZe/Paper-List/stargazers)
-
-## Playground
-
-Small experiments in simulation and interactive 3D, collected on my [website](https://yanjieze.com/#tools).
-
-[Robot Picasso](https://robot-picasso.yanjieze.com) · [Robot Cook](https://robot-cook.yanjieze.com) · [Dex Rubik’s Cube](https://dex-rubik-cube.yanjieze.com) · [Diorama](https://diorama.yanjieze.com)
-
-## Upstream contributions
-
-- **XRoboToolkit Python bindings** — [whole-body motion capture](https://github.com/XR-Robotics/XRoboToolkit-PC-Service-Pybind/pull/2) and [hand tracking activity state](https://github.com/XR-Robotics/XRoboToolkit-PC-Service-Pybind/pull/3). [![Stars](https://img.shields.io/github/stars/XR-Robotics/XRoboToolkit-PC-Service-Pybind?style=flat)](https://github.com/XR-Robotics/XRoboToolkit-PC-Service-Pybind/stargazers)
-- **XRoboToolkit Orin Video Sender** — [ZMQ + TCP streaming](https://github.com/XR-Robotics/XRoboToolkit-Orin-Video-Sender/pull/2). [![Stars](https://img.shields.io/github/stars/XR-Robotics/XRoboToolkit-Orin-Video-Sender?style=flat)](https://github.com/XR-Robotics/XRoboToolkit-Orin-Video-Sender/stargazers)
-
----
-
-[Browse the full project directory](PROJECTS.md) · [All public repositories](https://github.com/YanjieZe?tab=repositories)
+| Project | Description | Stars |
+| --- | --- | --- |
+| [NodePeek](https://github.com/YanjieZe/NodePeek) | Remote GPU, CPU and memory monitoring for macOS. | [![Stars](https://img.shields.io/github/stars/YanjieZe/NodePeek?style=flat)](https://github.com/YanjieZe/NodePeek/stargazers) |
+| [URDF Viewer](https://urdf-viewer.yanjieze.com) | Inspect robot models in your browser. | — |
+| [SR Papers](https://sr.yanjieze.com) | Search robot learning papers in Science Robotics. | [![Stars](https://img.shields.io/github/stars/YanjieZe/SR-Paper-List?style=flat)](https://github.com/YanjieZe/SR-Paper-List/stargazers) |
+| [Humanoid Paper List](https://github.com/YanjieZe/awesome-humanoid-robot-learning) | Papers and resources on humanoid learning. | [![Stars](https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=flat)](https://github.com/YanjieZe/awesome-humanoid-robot-learning/stargazers) |
+| [Paper List](https://github.com/YanjieZe/Paper-List) | Research reading lists by topic and conference. | [![Stars](https://img.shields.io/github/stars/YanjieZe/Paper-List?style=flat)](https://github.com/YanjieZe/Paper-List/stargazers) |
+| [Robot Picasso](https://robot-picasso.yanjieze.com) | Robot drawing in physics simulation. | — |
+| [Robot Cook](https://robot-cook.yanjieze.com) | Bimanual cooking simulation and 3D replay. | — |
+| [Dex Rubik’s Cube](https://dex-rubik-cube.yanjieze.com) | Contact-driven cube manipulation in MuJoCo. | — |
+| [Diorama](https://diorama.yanjieze.com) | Code-generated 3D scenes with a humanoid. | — |
