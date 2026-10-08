@@ -40,7 +40,7 @@
 | Project | Description | Stars |
 | --- | --- | --- |
 | [LookBack](https://github.com/YanjieZe/LookBack) | AirPods head tracking that blurs your Mac screen when you look away. | [![Stars](https://img.shields.io/github/stars/YanjieZe/LookBack?style=flat)](https://github.com/YanjieZe/LookBack/stargazers) |
-| [BlurNow](https://github.com/YanjieZe/BlurNow) | One click to blur your Mac screen; touch anything to bring it back. | [![Stars](https://img.shields.io/github/stars/YanjieZe/BlurNow?style=flat)](https://github.com/YanjieZe/BlurNow/stargazers) |
+| [BlurNow](https://github.com/YanjieZe/BlurNow) | One shortcut to cover your Mac screen; touch anything to bring it back. | [![Stars](https://img.shields.io/github/stars/YanjieZe/BlurNow?style=flat)](https://github.com/YanjieZe/BlurNow/stargazers) |
 | [NodePeek](https://github.com/YanjieZe/NodePeek) | Remote GPU, CPU and memory monitoring for macOS. | [![Stars](https://img.shields.io/github/stars/YanjieZe/NodePeek?style=flat)](https://github.com/YanjieZe/NodePeek/stargazers) |
 | [URDF Viewer](https://urdf-viewer.yanjieze.com) | Inspect robot models in your browser. | — |
 | [SR Papers](https://sr.yanjieze.com) | Search robot learning papers in Science Robotics. | [![Stars](https://img.shields.io/github/stars/YanjieZe/SR-Paper-List?style=flat)](https://github.com/YanjieZe/SR-Paper-List/stargazers) |
